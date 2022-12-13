@@ -1,0 +1,15 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "This is the first signup page i am creating . This will be super useful in my future projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya Ghodmare",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
